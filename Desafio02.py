@@ -1,0 +1,5 @@
+#perguntar dia mes ano do nascimento de alguem e mostrar uma mensagem com a data formada
+dia = input('Em que dia você nasceu? ')
+mes = input('Em que mês você nasceu? ')
+ano = input('Em que ano você nasceu? ')
+print('Sua data de nascimento é',dia ,'de' ,mes ,'de' ,ano , ', certo?')
